@@ -1,5 +1,7 @@
 <h1>Documents-Search-Engine</h1>
-<h2>Calculate TFIDF and Cosine Similarity</h2>
+<h5>Documents-Search-Engine is an Information Retrieval System that use Term frecuency-inverse Document Frecuency and cosine similarity to retreive the most relevants documents given a query</h5>
+
+<h3>Calculate TFIDF and Cosine Similarity</h3>
 
 <h4>Find similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h4>
 
