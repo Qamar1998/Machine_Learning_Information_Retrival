@@ -29,14 +29,20 @@
    </li>
     <li> <h6>max_features, limiting Vocabulary Size :
      When your feature space gets too large, you can limit its size by putting a restriction on the vocabulary          size. Say you want a max of 10,000 n-grams. it will keep the top 10,000 most frequent n-grams and      drop the rest.</h6>
-   </li>
-    
+   </li>  
+</ul>
+
     
 <h6>3. Calculate cosine similarity for the documents</h6>
-<p>Cosine similarity is a measure of similarity between two vectors and in information retrieval gives a useful measure of how similar two documents are likely to be in terms of their subject matter.</p>
-    
-    
-</ul>
+<h6>Cosine similarity is a measure of similarity between two vectors and in information retrieval gives a useful measure of how similar two documents are likely to be in terms of their subject matter.</h6>
+
+<h5>Source Code</h5>
+<h6>main source file can be found /cosine_similarity_tfidf_nltk.py</h6>
+
+<h5>Input information</h5>
+<h6> input files were assigned and can be found /DOcs</h6>
+
+  
     
     
  
