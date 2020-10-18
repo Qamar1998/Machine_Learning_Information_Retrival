@@ -1,3 +1,7 @@
+<h1>Calculate TFIDF and Cosine Similarity</h1>
+<h2> ________________________________________________</h2>
+
+<h4>Find similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h4>
 
 <h5>Generating tf-idf vectors using Tfidfvectorizer you compute the word counts, idf and tf-idf values all at once</h5>
 <h5>TfidfVectorizer will convert a collection of raw documents to a matrix of TF-IDF features.</h5>
