@@ -1,11 +1,12 @@
 <h1>Documents-Search-Engine</h1>
-<h5>Documents-Search-Engine is an Information Retrieval System that use Term frecuency-inverse Document Frecuency and cosine similarity to retreive the most relevants documents given a query</h5>
+<h6>Documents-Search-Engine is an Information Retrieval System that use Term frecuency-inverse Document Frecuency and cosine similarity to retreive the most relevants documents given a query</h6>
 
 <h3>Calculate TFIDF and Cosine Similarity</h3>
 
-<h4>Find similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h4>
-
-<h5>Generating tf-idf vectors using Tfidfvectorizer you compute the word counts, idf and tf-idf values all at once</h5>
+<h4>We will find the similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h4>
+<h4>Overview</h4>
+<h5>1. Reading the documents</h5>
+<h5>2. Generating tf-idf vectors using Tfidfvectorizer from (SklearnCosineSimilarity library) you compute the word counts, idf and tf-idf values all at once</h5>
 <h5>TfidfVectorizer will convert a collection of raw documents to a matrix of TF-IDF features.</h5>
 <h5>Parameters that TfidfVectorizer func use </h5>
 
