@@ -3,12 +3,12 @@
 
 <h3>Calculate TFIDF and Cosine Similarity</h3>
 
-<h4>We will find the similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h4>
+<h6>We will find the similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h6>
 <h4>Overview</h4>
-<h5>1. Reading the documents</h5>
-<h5>2. Generating tf-idf vectors using Tfidfvectorizer from (SklearnCosineSimilarity library) you compute the word counts, idf and tf-idf values all at once</h5>
-<h5>TfidfVectorizer will convert a collection of raw documents to a matrix of TF-IDF features.</h5>
-<h5>Parameters that TfidfVectorizer func use </h5>
+<h6>1. Reading the documents</h6>
+<h6>2. Generating tf-idf vectors using Tfidfvectorizer from (SklearnCosineSimilarity library) you compute the word counts, idf and tf-idf values all at once</h6>
+<h6>TfidfVectorizer will convert a collection of raw documents to a matrix of TF-IDF features.</h6>
+<h6>Parameters that TfidfVectorizer func use :</h6>
 
 <ul>
     <li><h6> lowercase, default=True :
@@ -31,6 +31,9 @@
      When your feature space gets too large, you can limit its size by putting a restriction on the vocabulary          size. Say you want a max of 10,000 n-grams. it will keep the top 10,000 most frequent n-grams and      drop the rest.</h6>
    </li>
     
+    
+<h6>3. Calculate cosine similarity for the documents</h6>
+<p>Cosine similarity is a measure of similarity between two vectors and in information retrieval gives a useful measure of how similar two documents are likely to be in terms of their subject matter.</p>
     
     
 </ul>
