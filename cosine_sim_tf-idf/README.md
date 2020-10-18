@@ -41,10 +41,10 @@
 
 <h4>Input information</h4>
 <ul>
-<li><h5> input files were assigned and can be found ./Docs and your query by using this command</h5></li>
-<li><h5> python3 cosine_tfidf.py -l ./Docs,newsletter </h5></li>
+<li><h5> input files were assigned and can be found ./Douments  and your query by using this command</h5></li>
+<li><h5> python3 cosine_tfidf.py -l ./Douments,newsletter </h5></li>
     </ul>
-<h6> Which is the dir_path is ./Docs and your query is newsletter </h6>
+<h6> Which is the dir_path is ./Douments  and your query is newsletter </h6>
 
 
   
