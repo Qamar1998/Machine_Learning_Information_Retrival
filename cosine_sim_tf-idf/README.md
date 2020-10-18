@@ -40,7 +40,8 @@
 <h5>main source file can be found /cosine_similarity_tfidf .py</h5>
 
 <h4>Input information</h4>
-<h5> input files were assigned and can be found /DOcs</h5>
+<h5> input files were assigned and can be found /Docs and your query</h5>
+
 
   
     
