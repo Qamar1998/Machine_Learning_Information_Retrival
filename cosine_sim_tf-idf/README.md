@@ -37,10 +37,12 @@
 <h6>Cosine similarity is a measure of similarity between two vectors and in information retrieval gives a useful measure of how similar two documents are likely to be in terms of their subject matter.</h6>
 
 <h4>Source Code</h4>
-<h5>main source file can be found /cosine_similarity_tfidf .py</h5>
+<h5>main source file can be found /cosine_tfidf.py </h5>
 
 <h4>Input information</h4>
-<h5> input files were assigned and can be found /Docs and your query</h5>
+<h5> input files were assigned and can be found ./Docs and your query by using this command</h5>
+<h5> python3 cosine_tfidf.py -l ./Docs,newsletter </h5>
+<h6> Which is the dir_path is ./Docs and your query is newsletter </h6>
 
 
   
