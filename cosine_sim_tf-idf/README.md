@@ -40,8 +40,10 @@
 <li><h5>main source file can be found /cosine_tfidf.py </h5></li>
 
 <h4>Input information</h4>
-<h5> input files were assigned and can be found ./Docs and your query by using this command</h5>
-<h5> python3 cosine_tfidf.py -l ./Docs,newsletter </h5>
+<ul>
+<li><h5> input files were assigned and can be found ./Docs and your query by using this command</h5></li>
+<li><h5> python3 cosine_tfidf.py -l ./Docs,newsletter </h5></li>
+    </ul>
 <h6> Which is the dir_path is ./Docs and your query is newsletter </h6>
 
 
