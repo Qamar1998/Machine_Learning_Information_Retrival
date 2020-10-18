@@ -5,10 +5,10 @@
 
 <h6>We will find the similarity between documents and specific queries using cosine similarity and term-document matrix with TF-IDF weighting.</h6>
 <h4>Overview</h4>
-<h6>1. Reading the documents</h6>
-<h6>2. Generating tf-idf vectors using Tfidfvectorizer from (SklearnCosineSimilarity library) you compute the word counts, idf and tf-idf values all at once</h6>
+<h5>1. Reading the documents</h5>
+<h5>2. Generating tf-idf vectors using Tfidfvectorizer from (SklearnCosineSimilarity library) you compute the word counts, idf and tf-idf values all at once</h5>
 <h6>TfidfVectorizer will convert a collection of raw documents to a matrix of TF-IDF features.</h6>
-<h6>Parameters that TfidfVectorizer func use :</h6>
+<h5>Parameters that TfidfVectorizer func use :</h5>
 
 <ul>
     <li><h6> lowercase, default=True :
@@ -33,7 +33,7 @@
 </ul>
 
     
-<h6>3. Calculate cosine similarity for the documents</h6>
+<h5>3. Calculate cosine similarity for the documents</h5>
 <h6>Cosine similarity is a measure of similarity between two vectors and in information retrieval gives a useful measure of how similar two documents are likely to be in terms of their subject matter.</h6>
 
 <h5>Source Code</h5>
